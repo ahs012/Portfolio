@@ -17,3 +17,10 @@ section {
   height: 150px;
   width: 150px;
 }
+
+#about{
+  padding: 50px;
+}
+#portfolio{
+  padding: 50px;
+}
