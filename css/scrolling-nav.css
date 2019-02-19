@@ -1,0 +1,19 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+  background-image: url("https://www.bgocloud.com/templates/bgocloud_v2/img/wordpress-header-background.jpg");
+  background-size: contain;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.img-thumbnail{
+  height: 150px;
+  width: 150px;
+}
