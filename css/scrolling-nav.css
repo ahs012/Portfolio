@@ -35,3 +35,10 @@ a{
 #inquiries{
   font-size: 24px;
 }
+
+@media only screen and (max-width: 500px) {
+  header {
+    background-size: auto;
+    background-position: 58%;
+  }
+}
